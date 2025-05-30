@@ -3,4 +3,4 @@ xhd
 sj  dn 
  sh 
  sh 
- sx 
+ sx xs s sh
